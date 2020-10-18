@@ -1,0 +1,31 @@
+.images img{
+    width: 100%;
+    z-index: -1;
+}
+.Event{
+    display: block;
+    text-decoration: none;
+    box-shadow: 0px 0px 8px #e4e3e3;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    transition: all .3s;
+    position: absolute;
+    
+}
+.Event:hover{
+    box-shadow: 0px 0px 8px #5e5c5c;
+    text-decoration: none;
+}
+.Title{
+   position: relative;
+   top: -10px;
+   background-color: #e74b03;
+   padding: 15px;
+   color: #fff;
+   border-radius: 0px 0px 10px 10px ;
+}
+.Title h3{
+    font-size: 18px;
+    text-align: center;
+    text-transform: uppercase;
+}

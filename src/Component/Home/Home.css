@@ -1,0 +1,11 @@
+.home-body{
+    background: linear-gradient(rgba(255, 255, 255, 0.801), rgba(255, 255, 255, 0.918)), url('../../Image/home-header-bg.png');
+    height: 200vh;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;  
+}
+.events{
+    margin-top: 100px;
+}

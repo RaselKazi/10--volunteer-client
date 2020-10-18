@@ -1,0 +1,11 @@
+.navbar-brand img{
+    width: 200px;
+    height: 60px;
+}
+.navbar .navbar-nav .nav-item .nav-link:link, .navbar .navbar-nav .nav-item .nav-link:visited  {
+    margin-right: 50px;
+    font-weight: bold;
+}
+.navbar .navbar-nav .nav-item .nav-link:hover, .navbar .navbar-nav .nav-item .nav-link:active  {
+    color: #009dc4;
+}

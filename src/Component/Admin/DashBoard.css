@@ -1,0 +1,21 @@
+.dashboard-menu li{
+    cursor: pointer;
+    padding: 10px 0px;
+    list-style-type:none;   
+}
+.dashboard-menu li:hover{
+    color:blue;  
+}
+.dashboard-menu li img{
+    width: 20px;
+    margin-right: 5px;
+    margin-left: 0px;
+
+}
+.img-area{
+    cursor: pointer;
+    padding: 5px;
+}
+.img-area img{
+    width: 25px;
+}
